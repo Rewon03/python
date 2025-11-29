@@ -30,26 +30,3 @@ The projects are organized by complexity and topic, making it easy to track prog
 * **`/02_Intermediate_Applications`**: Projects involving popular libraries, file processing, and APIs.
 * **`/03_Advanced_Portfolio`**: Larger, more complex projects (e.g., a web app, a data science model).
 * **`/Resources`**: Notes, cheatsheets, and links to helpful tutorials or documentation.
-
----
-
-## 🛠 Featured Projects & Highlights
-
-Here are some projects I am currently working on or planning:
-
-### Phase I: Foundational Practice
-
-* **[Project Name]**: A simple **Hangman Game** built using basic functions and loops.
-* **[Project Name]**: A **Command-Line To-Do List** utilizing file I/O for persistence.
-
-### Phase II: Intermediate Skill-Building
-
-* **[Project Name]**: **Simple Data Analysis Tool** using **Pandas** and **NumPy** to process a CSV file.
-* **[Project Name]**: **Weather Forecast API Client** that fetches and displays real-time weather data.
-
-### Phase III: Advanced Applications
-
-* **[Project Name]**: A **Full-Stack Blog** built with **Django** or **Flask**.
-* **[Project Name]**: A **Web Scraper** to monitor price changes on an e-commerce site.
-
----
